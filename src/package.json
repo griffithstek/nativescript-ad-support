@@ -1,7 +1,7 @@
 {
 	"name": "nativescript-ad-support",
-	"version": "1.0.0",
-	"description": "Your awesome NativeScript plugin.",
+	"version": "1.0.2",
+	"description": "Adds AdSupport iOS framework to Nativescript app for use with Firebase campaign attribution (IDFA).",
 	"main": "ad-support",
 	"typings": "index.d.ts",
 	"nativescript": {
@@ -33,7 +33,6 @@
 	"keywords": [
 		"NativeScript",
 		"JavaScript",
-		"Android",
 		"iOS"
 	],
 	"author": {
